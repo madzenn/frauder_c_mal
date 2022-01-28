@@ -1668,6 +1668,145 @@
 
 ## Semaine du 07/02
 
+### Abnégation:
+- Def: Sacrifice volontaire de soi même, de son intérêt
+- Ex: Il y a la magnifique abnégation et l'héroïsme des pompiers.
+- Syn: sacrifice - dévouement - désintéressement
+
+### Bienséance:
+- Def: Conduite sociale en accord avec les usages, respect de certaines formes
+- Ex: Cela signifie se moquer de tout le monde, oublier les règles de bienséances
+- Syn: correction - savoir-vivre
+
+### Bienveillance:
+- Def: Disposition favorable à l'égard de qqn
+- Ex: Je vous remercie de votre bienveillance.
+- Syn: bonté - indulgence
+
+### Bonhomie:
+- Def: Simplicité dans les manières, unie à la bonté du cœur.
+- Ex: Le sourire et sa bonhomie
+- Syn: simplicité - douceur - bonté
+
+### Civilité:
+- Def: Démonstration de politesse
+- Ex: Présenter ses civilités à qqn, ses compliments.
+- Syn: hommage - salutation
+
+### Clémence:
+- Def 1: Vertu qui consiste, de la part de qui dispose d'une autorité, à pardonner les offenses et à adoucir les châtiments.
+- Ex 1: Un acte de clémence
+- Syn 1: indulgence - magnamité
+
+- Ex 2: la clémence de la température
+- Syn 2: douceur
+
+### Coeur:
+- Def 1: Organe central de l'appareil circulatoire
+- Ex 1: Opération chirurgicale à cœur ouvert
+
+- Def 2: Siège du désir, de l'humeur.
+- Ex 2: De bon cœur
+- Syn 2: bonté
+
+
+### Commerce:
+- Def: Opération de vente, ou d'achat et de revente d'une marchandise, d'une valeur.
+- Ex: Organisation mondiale du commerce
+- Syn: affaire - magasin - marketing - fréquentation
+
+### Constance:
+- Def 1: Force morale, courage.
+- Ex 1: Elle montrait une égalité d'humeur et une constance
+
+- Def 2: Persévérance dans ce que l'on entreprend.
+- Ex 2: La constance en amour
+- Syn 2: fidelité
+
+- Def 3: Caractère durable, constant.
+- Ex 3: Elle demande de la constance et du temps.
+- Syn 3: continuité - persistance - permanence
+
+### Dérérence:
+- Def: Considération très respectueuse que l'on témoigne à qqn.
+- Ex: Traiter qqn avec déférence.
+- Syn: considération - égard
+
+### Désintéressement:
+- Def: Détachement de tout intérêt personnel.
+- Ex: L'équité et le désintéressement sont deux qualités qui nous sont communes.
+- Syn: générosité - altruisme
+
+### Éthique:
+- Def: Qui concerne la morale.
+- Ex: Des jugements éthiques
+- Syn: moral
+
+### Émulation:
+- Def: Sentiment qui porte à égaler ou à surpasser qqn.
+- Ex: Il y a une véritable émulation pour faire vivre tout ce petit monde
+- Syn: concurrence - compétition
+
+### Intégrité:
+- Def 1: État d'une chose qui demeure intacte, entière
+- Ex 1: L'intégrité du territoire.
+- Syn 1: totalité
+
+- Def 2: Honnêteté, probité absolue.
+- Ex 2: Le problème de l'authenticité semble pouvoir être tout aussi bien résolu que celui de l'intégrité.
+- Syn 2: honnêteté
+
+### Mansuétude:
+- Def: Disposition à pardonner généreusement.
+- Ex: Juger qqn avec mansuétude.
+- Syn: bonté - indulgence
+
+### Principe:
+- Def 1: Cause première active
+- Ex 1: Connaissance, recherche des principes 
+- Syn 1: fondement - origine - source
+- Def 2: Proposition fondamentale
+- Ex 2: Le principe d'Archimède
+- Syn 2: hypothèse
+- Def 3: Règle d'action s'appuyant sur un jugement de valeur et constituant un modèle ou un but.
+- Ex 3: Punir un enfant pour le principe
+- Syn 3: loi - précepte
+- Def 4: Les règles morales auxquelles une personne, un groupe est attaché.
+- Ex 4: Avoir des principes
+- Syn 4: morale
+
+### Probité:
+- Def: Honnêteté scrupuleuse.
+- Ex: Question probité
+- Syn: intégrité
+
+### Rectitude:
+- Def: Qualité de ce qui est droit, rigoureux.
+- Ex: La rectitude d'un raisonnement
+- Syn: droiture - justesse
+
+### Tact:
+- Def: Qualité qui permet d'apprécier intuitivement ce qu'il convient de dire, de faire ou d'éviter dans les relations humaines
+- Ex: Avoir du tact
+- Syn: délicateese - doigté - intuition
+
+### Tempérance:
+- Def: Modération dans les plaisirs, notamment dans la consommation d'alcool et de nourriture
+- Ex: Le règne du café est celui de la tempérance.
+- Syn: mesure - modération - continence - frugalité
+
+### Vertu:
+- Def 1: Force morale avec laquelle l'être humain tend au bien
+- Syn 1: honnêteté - moralité
+- Def 2: Principe actif. 
+- Ex 2 : La vertu réparatrice du temps
+- Syn 2: pouvoir - propriété
+
+### Zèle:
+- Def: rdeur à servir une personne ou une cause à laquelle on est dévoué.
+- Ex: Travailler avec zèle.
+- Syn: dévouement
+
 ## Semaine du 14/02
 
 ## Semaine du 21/02
